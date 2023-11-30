@@ -1,0 +1,13 @@
+    var body: some View {
+        VStack {
+            ExampleView()
+            ExampleView2()
+        }
+    }
+}
+
+struct AnchorPreferenceUsage_Previews: PreviewProvider {
+    static var previews: some View {
+        AnchorPreferenceUsage()
+    }
+}
